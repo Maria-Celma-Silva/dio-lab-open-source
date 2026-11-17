@@ -3,9 +3,9 @@
 
 Bem-vindo(a) ao meu perfil! ✨
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atuo unindo o melhor de dois mundos: **tecnologia e compliance administrativo**. 
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo unindo o melhor de dois mundos: **tecnologia e compliance administrativo**. 
 
-Sou apaixonada por automação, pipelines de dados e por transformar rotinas manuais em soluções inteligentes e escaláveis.
+Sou apaixonado por automação, pipelines de dados e por transformar rotinas manuais em soluções inteligentes e escaláveis.
 
 ---
 
