@@ -1,5 +1,5 @@
 
-# #👩‍💻 Olá! Eu sou a Celma Silva!
+# 👩‍💻 Olá! Eu sou aa Celma Silva!
 
 Bem-vindo(a) ao meu perfil! ✨
 
