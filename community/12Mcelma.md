@@ -11,8 +11,8 @@ Sou apaixonada por automação, pipelines de dados e por transformar rotinas man
 
 ## 🚀 Sobre mim
 
-- 💼 Especialista em **Python** voltado para automação de processos, web scraping e criação de pipelines ETL.
-- 🏛️ Experiência prática no setor público e extração de dados complexos.
+- 👩‍💻 Estudante de programação e desenvolvimento de software.
+- 🐍 Constante aprendizado em  **Python** voltado para automação de processos, web scraping e criação de pipelines ETL.
 - 🎓 **DIO Campus Expert (Turma 15):** Embaixadora na comunidade, sempre disposta a compartilhar conhecimento e fomentar o networking.
 - 🌱 Atualmente aprofundando meus estudos em desenvolvimento Back-end, integração com APIs de Inteligência Artificial e bancos de dados SQL.
 - 🤝 Entusiasta do ecossistema Open Source e do poder da colaboração na evolução tecnológica.
@@ -29,14 +29,15 @@ Sou apaixonada por automação, pipelines de dados e por transformar rotinas man
 | **Ecossistema IA** | Integração com LLMs (Google Gemini API) |
 
 ---
-
 ## 💻 Projetos em Destaque
 
-**Ro-DOU (Automação do Diário Oficial da União)**
-Pipeline ETL e web scraping em Python desenvolvido para monitorar o DOU. O projeto automatiza a extração de atos de pessoal, processa as informações e utiliza a API do Google Gemini para sumarização de texto. Implantado via GitHub Actions e Google Colab.
+**Painel de controle - Vendas**
+**Implementa-o-de-servi-os-AWS**
+
+
+
 
 ---
-
 ## 🎓 Formação e Comunidade
 
 - **Graduação:** Análise e Desenvolvimento de Sistemas (Uniceplac).
