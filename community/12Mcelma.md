@@ -31,9 +31,9 @@ Sou apaixonada por automação, pipelines de dados e por transformar rotinas man
 ---
 ## 💻 Projetos em Destaque
 
-- Painel de controle - Vendas**
+- Painel de controle - Vendas
 
-- Implementa-o-de-servi-os-AWS**
+- Implementa-o-de-servi-os-AWS
 
 ---
 ## 🎓 Formação e Comunidade
