@@ -67,7 +67,3 @@ Este perfil marca uma etapa especial na minha jornada! Ele representa minha prim
 ⭐ Obrigada pela visita ao meu perfil!
 
 **Nunca pare de aprender. O futuro da tecnologia também é construído por quem está codificando soluções hoje!** 💜
-
-⭐ Obrigada pela visita ao meu perfil!
-
-**Nunca pare de aprender. O futuro da tecnologia também é construído por quem está codificando soluções hoje!** 💜
