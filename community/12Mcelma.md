@@ -36,6 +36,7 @@ Sou apaixonada por automação, pipelines de dados e por transformar rotinas man
 - Implementa-o-de-servi-os-AWS
 
 ---
+
 ## 🎓 Formação e Comunidade
 
 - **Graduação:** Análise e Desenvolvimento de Sistemas (Uniceplac).
